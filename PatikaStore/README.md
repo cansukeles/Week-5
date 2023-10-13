@@ -1,4 +1,4 @@
-# Patika Store Java Application README
+# Patika Store Java README
 
 ## Overview
 
